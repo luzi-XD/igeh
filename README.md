@@ -1,6 +1,6 @@
 
 ▒█░░░ ▒█▀▀█ ▒█▀▀█ 
-▒█░░░ ▒█░░░ ▒█░▄▄  CRACK IG PREMIUM
+▒█░░░ ▒█░░░ ▒█░▄▄
 ▒█▄▄█ ▒█▄▄█ ▒█▄▄█
 
 SCRIPT CRACK IG PREMIUM
