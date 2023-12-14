@@ -1,7 +1,4 @@
-
-▒█░░░ ▒█▀▀█ ▒█▀▀█ 
-▒█░░░ ▒█░░░ ▒█░▄▄
-▒█▄▄█ ▒█▄▄█ ▒█▄▄█
+WELCOME !!
 
 SCRIPT CRACK IG PREMIUM
 UNTUK MEMBELI LISENSI HUBUNGI CONTACT DI BAWAH !!
