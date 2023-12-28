@@ -13,13 +13,13 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
     $cd igeh
     $pkg install clang python binutils libffi openssl libsodium
     $SODIUM_INSTALL=system pip3 install pynacl
-    $python LCG.py
+    $python run.py
 
 
 <h5 align="left">MENJALANKAN SCRIPT:</h5>
 
     $ cd igeh
-    $ python LCG.py
+    $ python run.py
     
 ## Metode Login
 - [x] Cookie Login
